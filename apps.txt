@@ -1,0 +1,73 @@
+Programming :
+- Intellij IDEA : idea
+- Visual Studio Code : code 
+- Arduino IDE
+- PyCharm
+- Datagrip
+- PgAdmin
+- TOAD For Oracle : with wine :)
+- SQL Server Operations Studio (sqlops)
+- sqlite
+- MySQL Workbench
+- nodejs
+- maven
+- jdk
+#########################################
+Terminal : 
+- Tilix
+- Terminator
+#########################################
+Editor : 
+- Atom
+- notepad++
+- Vim
+- nano
+#########################################
+Internet: 
+- Firefox
+- Brave
+- Chromium
+- Skype
+- Slack
+- WhatsApp
+- Telegram
+- Remnia
+- forticlientsslvpn
+#########################################
+File : 
+- nautilus
+- Midnight Commander: mc
+#########################################
+Office :
+- WPS Office
+- Libre Office
+- okular
+#########################################
+Version Control System: 
+ - git
+ - Gitkraken
+#########################################
+Merge :
+- Kompare
+- Meld
+- kdiff3
+#########################################
+Microsoft : 
+- wine
+- winetricks
+- playonlinux
+#########################################
+Sound, Video :
+- spotify
+#########################################
+Graphics :
+- MyPaint
+- EdrawMax
+#########################################
+Other: 
+- virtualbox
+- htop
+- redshift
+- asciiquarium
+- xpad
+#########################################
