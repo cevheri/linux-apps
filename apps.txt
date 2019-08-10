@@ -70,4 +70,5 @@ Other:
 - redshift
 - asciiquarium
 - xpad
+- ulauncher https://ulauncher.io/
 #########################################
