@@ -16,12 +16,14 @@ Programming :
 Terminal : 
 - Tilix
 - Terminator
+- zsh
 #########################################
 Editor : 
 - Atom
 - notepad++
 - Vim
 - nano
+- sbulimetext
 #########################################
 Internet: 
 - Firefox
@@ -33,6 +35,7 @@ Internet:
 - Telegram
 - Remnia
 - forticlientsslvpn
+- rambox
 #########################################
 File : 
 - nautilus
@@ -63,6 +66,7 @@ Sound, Video :
 Graphics :
 - MyPaint
 - EdrawMax
+- deepinscreenshot
 #########################################
 Other: 
 - virtualbox
@@ -70,4 +74,5 @@ Other:
 - redshift
 - asciiquarium
 - xpad
+- bashtop
 #########################################
