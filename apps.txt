@@ -20,10 +20,9 @@ Terminal :
 #########################################
 Editor : 
 - Atom
-- notepad++
+- notepad++ (wine)
 - Vim
-- nano
-- sbulimetext
+- sublimetext
 #########################################
 Internet: 
 - Firefox
@@ -45,6 +44,7 @@ Office :
 - WPS Office
 - Libre Office
 - okular
+- masterpdf
 #########################################
 Version Control System: 
  - git
@@ -74,8 +74,10 @@ Other:
 - redshift
 - asciiquarium
 - xpad
-
+- timeshift
 - ulauncher https://ulauncher.io/
 - bashtop
+- caffeine
+- gparted
 
 #########################################
