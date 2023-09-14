@@ -68,6 +68,7 @@ Graphics :
 - EdrawMax
 - deepinscreenshot
 - flameshot
+- ksnip
 #########################################
 Other: 
 - virtualbox
@@ -80,5 +81,7 @@ Other:
 - bashtop
 - caffeine
 - gparted
+- jq
+- yq
 
 #########################################
