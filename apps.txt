@@ -16,7 +16,7 @@ Programming :
 Terminal : 
 - Tilix
 - Terminator
-- zsh
+- zsh (ohmyzsh)
 #########################################
 Editor : 
 - Atom
@@ -67,6 +67,7 @@ Graphics :
 - MyPaint
 - EdrawMax
 - deepinscreenshot
+- flameshot
 #########################################
 Other: 
 - virtualbox
