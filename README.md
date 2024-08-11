@@ -77,6 +77,7 @@
 - kdenlive
 
 ## Graphics
+- obsproject
 - MyPaint
 - EdrawMax
 - deepinscreenshot
