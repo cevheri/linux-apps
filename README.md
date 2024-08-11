@@ -18,6 +18,7 @@
 - DBeaver
 - git
 - Gitkraken
+- anaconda
 
 ## DevOps
 - docker
