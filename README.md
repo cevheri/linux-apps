@@ -98,4 +98,5 @@
 - gparted
 - jq
 - yq
+- trash-cli
 
