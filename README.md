@@ -99,4 +99,4 @@
 - jq
 - yq
 - trash-cli
-
+- [uv](https://github.com/astral-sh/uv)
