@@ -70,3 +70,9 @@ aws
 fvm
 snap
 venv
+/logs/
+/backup.log
+/backup.log.*
+/.backup.log
+.next/
+__pycache__/
