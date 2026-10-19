@@ -57,6 +57,7 @@
 - ncdu
 
 ## Office
+- Only Office
 - WPS Office
 - Libre Office
 - okular
